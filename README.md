@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programmer in training, interested in learning more about front developer. Occupational health and safety professional
+Programmer in training, interested in learning more about front developer.
 
 
 ## 🌐 Socials:
