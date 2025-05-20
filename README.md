@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=heavenndew&label=Profile%20views&color=0e75b6&style=flat" alt="heavenndew" /> </p>
 
-<p align="center">🔭 Actualmente estoy trabajando en mi proyectos personal [Pajariando](https://heavenndew.github.io/Pajariando/)</p>
+<p align="center">🔭 Actualmente estoy trabajando en mi proyecto [Pajariando](https://heavenndew.github.io/Pajariando/)</p>
 <p align="center">🌱 Actualmente estoy aprendiendo **React, Next**</p>
 <p align="center">👨‍💻 Todos mis proyectos están disponibles en [https://github.com/heavenndew](https://github.com/heavenndew)</p>
 <p align="center">📫 Cómo contactarme **cielocalderon02@gmail.com**</p>
